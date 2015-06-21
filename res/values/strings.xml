@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">风筝APP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+	
+    <string name="tab_hot">热门</string>
+    <string name="tab_news">最新</string>
+    <string name="tab_favorite">收藏</string>
+</resources>
